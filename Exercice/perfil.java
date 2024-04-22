@@ -1,4 +1,4 @@
-package Exercise;
+package Exercice;
 
 public class perfil {
 
