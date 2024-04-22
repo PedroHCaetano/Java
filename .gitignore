@@ -29,4 +29,4 @@ bin/
 .DS_Store
 
 # Ignorar arquivos .class
-*.class
+.class
