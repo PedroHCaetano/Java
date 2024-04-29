@@ -1,4 +1,4 @@
-package Exercice;
+package Exercise;
 
 public class precoQuantidade {
     public static void main(String[] args) {

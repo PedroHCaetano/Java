@@ -1,4 +1,4 @@
-package Exercice;
+package Exercise;
 
 public class soma {
     public static void main(String[] args) {

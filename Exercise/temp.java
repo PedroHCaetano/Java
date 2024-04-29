@@ -1,5 +1,5 @@
 // Converta uma temperatura em graus Celsius para Fahrenheit.
-package Exercice;
+package Exercise;
 
 public class temp {
     public static void main(String[] args) {

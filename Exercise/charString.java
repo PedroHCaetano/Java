@@ -1,4 +1,4 @@
-package Exercice;
+package Exercise;
 
 public class charString {
     public static void main(String[] args) {
